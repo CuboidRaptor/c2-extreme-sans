@@ -44,8 +44,12 @@
 0,ADD,XR,320,$XR,,
 0,MUL,SpeedR,$SpeedR,30,,
 0,BoneV,$XL,257,$HeightT,0,$SpeedL
+0,BoneV,$XL,257,$HeightT,0,$SpeedL
+0,BoneV,$XL,$YB,$HeightB,0,$SpeedL
 0,BoneV,$XL,$YB,$HeightB,0,$SpeedL
 0,BoneV,$XR,257,$HeightT,2,$SpeedR
+0,BoneV,$XR,257,$HeightT,2,$SpeedR
+0,BoneV,$XR,$YB,$HeightB,2,$SpeedR
 0,BoneV,$XR,$YB,$HeightB,2,$SpeedR
 0,MUL,Jump,$Choice,2,,
 0,ADD,Jump,$Jump,1,,
