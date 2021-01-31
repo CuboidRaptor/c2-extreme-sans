@@ -93,7 +93,7 @@
 0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
 0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
 0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 2,SansHead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,
