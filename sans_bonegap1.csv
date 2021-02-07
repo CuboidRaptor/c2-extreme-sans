@@ -2,10 +2,10 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,1,,,,,,
 0,SansText,Dunno why you want \nso hard, but okay.
-0.1,SansBody,HandDown,,,,,
+1,SansBody,HandDown,,,,,
 0,BoneStab,3,90,0.1,100
-0.2,SansText,Enjoy.
 0,TLPause,,,,,,,
+0.2,SansText,Enjoy.,,,,,
 0.2,BoneVRepeat,128,257,95,0,200,9,111
 0,BoneVRepeat,128,366,20,0,200,9,111
 0,BoneVRepeat,503,257,95,2,200,9,111
