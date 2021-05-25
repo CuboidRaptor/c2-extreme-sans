@@ -21,4 +21,5 @@
 0.5,JMPABS,8,,,,,,
 0,HeartMode,0,,,,,
 0,SineBones,100,-29,387,26
-5,EndAttack,,,,,,,
+5,GasterBlaster,2,0,0,500,498,0,1,0.5
+1,EndAttack,,,,,,,
