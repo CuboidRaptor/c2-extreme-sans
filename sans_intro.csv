@@ -60,7 +60,7 @@
 1.7,Sound,GasterBlaster,1.4,,,,,,
 0.4,SineBones,40,-30,380,25,,,,
 3.5,SansBody,HandDown,,,,,,,
-0,SansSlam,1,,,,,,,,
+0,SansSlam,1,,,,,,,
 0.2,BoneVRepeat,128,257,95,0,200,2,111
 0,BoneVRepeat,128,366,20,0,200,2,111
 0,BoneVRepeat,503,257,95,2,200,2,111
